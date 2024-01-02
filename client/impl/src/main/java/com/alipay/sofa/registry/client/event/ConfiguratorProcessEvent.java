@@ -25,7 +25,7 @@ import com.alipay.sofa.registry.client.api.model.Event;
  * @version $Id: ConfiguratorProcessEvent.java, v 0.1 2018-07-13 18:44 zhuoyu.sjw Exp $$
  */
 public class ConfiguratorProcessEvent implements Event {
-  private String email = "invalid.yyy@antgroup.com";
+  private String email = "invalid.zzz@antgroup.com";
   private Configurator configurator;
 
   private RegistryClientConfig config;
